@@ -1,0 +1,2527 @@
+[
+    {
+        "code": "MSFT",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "AAPL",
+        "industry_infos": "Consumer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "AMZN",
+        "industry_infos": "Internet",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FB",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "GOOGL",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "GOOG",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "JNJ",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "BRK.B",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "V",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "JPM",
+        "industry_infos": "Banks—Diversified",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "PG",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "UNH",
+        "industry_infos": "Healthcare",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "MA",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "HD",
+        "industry_infos": "Home",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "INTC",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "VZ",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "NVDA",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "T",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "DIS",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "BAC",
+        "industry_infos": "Banks—Diversified",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "XOM",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "ADBE",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CSCO",
+        "industry_infos": "Communication",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MRK",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "NFLX",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "PYPL",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "PFE",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "PEP",
+        "industry_infos": "Beverages—Non-Alcoholic",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CMCSA",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "KO",
+        "industry_infos": "Beverages—Non-Alcoholic",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CVX",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "WMT",
+        "industry_infos": "Discount",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ABBV",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CRM",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ABT",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "MCD",
+        "industry_infos": "Restaurants",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TMO",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "COST",
+        "industry_infos": "Discount",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "AMGN",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "BMY",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ACN",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MDT",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "NKE",
+        "industry_infos": "Footwear",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "NEE",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "AVGO",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "LLY",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "UNP",
+        "industry_infos": "Railroads",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "AMT",
+        "industry_infos": "REIT—Specialty",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "TXN",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "C",
+        "industry_infos": "Banks—Diversified",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "ORCL",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "PM",
+        "industry_infos": "Tobacco",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "LIN",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "WFC",
+        "industry_infos": "Banks—Diversified",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "DHR",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "IBM",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "HON",
+        "industry_infos": "Conglomerates",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "BA",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "QCOM",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "RTX",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "LOW",
+        "industry_infos": "Home",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "GILD",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "LMT",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "SBUX",
+        "industry_infos": "Restaurants",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "MMM",
+        "industry_infos": "Conglomerates",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "FIS",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "BLK",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "CHTR",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "CVS",
+        "industry_infos": "Healthcare",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "SPGI",
+        "industry_infos": "Financial",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "MO",
+        "industry_infos": "Tobacco",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "UPS",
+        "industry_infos": "Integrated",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "NOW",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MDLZ",
+        "industry_infos": "Confectioners",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "INTU",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CI",
+        "industry_infos": "Healthcare",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "AXP",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "PLD",
+        "industry_infos": "REIT—Industrial",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "CCI",
+        "industry_infos": "REIT—Specialty",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "D",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "BKNG",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "BDX",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "VRTX",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CAT",
+        "industry_infos": "Farm",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ANTM",
+        "industry_infos": "Healthcare",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ISRG",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "GS",
+        "industry_infos": "Capital",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "AMD",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "TJX",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ADP",
+        "industry_infos": "Staffing",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ZTS",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "DUK",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "GE",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "CME",
+        "industry_infos": "Financial",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "CL",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "EQIX",
+        "industry_infos": "REIT—Specialty",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "SYK",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "TGT",
+        "industry_infos": "Discount",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "REGN",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "SO",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "CB",
+        "industry_infos": "Insurance—Property",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "FISV",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ATVI",
+        "industry_infos": "Electronic",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "MS",
+        "industry_infos": "Capital",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "USB",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "MU",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CSX",
+        "industry_infos": "Railroads",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "GPN",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "MMC",
+        "industry_infos": "Insurance",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "TFC",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "AMAT",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "APD",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "ICE",
+        "industry_infos": "Financial",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "ILMN",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ADSK",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "BIIB",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "HUM",
+        "industry_infos": "Healthcare",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ECL",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "BSX",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "PNC",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "NOC",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "DE",
+        "industry_infos": "Farm",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ITW",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "DG",
+        "industry_infos": "Discount",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "KMB",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "COP",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "SHW",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "NEM",
+        "industry_infos": "Gold",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "PGR",
+        "industry_infos": "Insurance—Property",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "NSC",
+        "industry_infos": "Railroads",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "MCO",
+        "industry_infos": "Financial",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "ADI",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "AON",
+        "industry_infos": "Insurance",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "EW",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "BAX",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "EL",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "LRCX",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "SCHW",
+        "industry_infos": "Capital",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "LHX",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ROP",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WM",
+        "industry_infos": "Waste",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "AEP",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "TMUS",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "DD",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "EMR",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "EXC",
+        "industry_infos": "Utilities—Diversified",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "EA",
+        "industry_infos": "Electronic",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "GIS",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "DLR",
+        "industry_infos": "REIT—Office",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "EBAY",
+        "industry_infos": "Internet",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "DXCM",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CNC",
+        "industry_infos": "Healthcare",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "GD",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ETN",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "SRE",
+        "industry_infos": "Utilities—Diversified",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "GM",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "SBAC",
+        "industry_infos": "REIT—Specialty",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "PSX",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "XEL",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "COF",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "ROST",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "BK",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "FDX",
+        "industry_infos": "Integrated",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ALL",
+        "industry_infos": "Insurance—Property",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "ORLY",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "DOW",
+        "industry_infos": "Chemicals",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "WBA",
+        "industry_infos": "Pharmaceutical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "KMI",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "EOG",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "CTSH",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MET",
+        "industry_infos": "Insurance—Life",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "PSA",
+        "industry_infos": "REIT—Industrial",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "TRV",
+        "industry_infos": "Insurance—Property",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "KLAC",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "STZ",
+        "industry_infos": "Beverages—Wineries",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TROW",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "AIG",
+        "industry_infos": "Insurance—Diversified",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "APH",
+        "industry_infos": "Electronic",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "WEC",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "INFO",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "SYY",
+        "industry_infos": "Food",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "YUM",
+        "industry_infos": "Restaurants",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "SNPS",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "HCA",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "MSCI",
+        "industry_infos": "Financial",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "ES",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "JCI",
+        "industry_infos": "Engineering",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "AFL",
+        "industry_infos": "Insurance—Life",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "VRSK",
+        "industry_infos": "Consulting",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "A",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "SLB",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "TEL",
+        "industry_infos": "Electronic",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "AZO",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "IDXX",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "TWTR",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "MNST",
+        "industry_infos": "Beverages—Non-Alcoholic",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CMG",
+        "industry_infos": "Restaurants",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ZBH",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CLX",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "VLO",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "PRU",
+        "industry_infos": "Insurance—Life",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "CMI",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "KR",
+        "industry_infos": "Grocery",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CDNS",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "PCAR",
+        "industry_infos": "Farm",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "F",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "IQV",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ED",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "PEG",
+        "industry_infos": "Utilities—Diversified",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "HPQ",
+        "industry_infos": "Computer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MAR",
+        "industry_infos": "Lodging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "MPC",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "MCK",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ALXN",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "PPG",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "WLTW",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "ROK",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "MCHP",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "PAYX",
+        "industry_infos": "Staffing",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "PH",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "MSI",
+        "industry_infos": "Communication",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ANSS",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "OTIS",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "RMD",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "AWK",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "FAST",
+        "industry_infos": "Industrial",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WMB",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "SPG",
+        "industry_infos": "REIT—Retail",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "TDG",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "XLNX",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "STT",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "WELL",
+        "industry_infos": "REIT—Healthcare",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "AVB",
+        "industry_infos": "REIT—Residential",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "BLL",
+        "industry_infos": "Packaging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FLT",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CTAS",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "EQR",
+        "industry_infos": "REIT—Residential",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "ADM",
+        "industry_infos": "Farm",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FE",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "HLT",
+        "industry_infos": "Lodging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TT",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "SWKS",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "O",
+        "industry_infos": "REIT—Retail",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "CERN",
+        "industry_infos": "Health",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "EIX",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "VRSN",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "DLTR",
+        "industry_infos": "Discount",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "GLW",
+        "industry_infos": "Electronic",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MKC",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "VFC",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "PPL",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "SWK",
+        "industry_infos": "Tools",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "DTE",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "EFX",
+        "industry_infos": "Consulting",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ARE",
+        "industry_infos": "REIT—Office",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "CTVA",
+        "industry_infos": "Agricultural",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "AME",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "KHC",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ETR",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "FTNT",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "HSY",
+        "industry_infos": "Confectioners",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "APTV",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "LUV",
+        "industry_infos": "Airlines",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "AMP",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "FTV",
+        "industry_infos": "Scientific",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MKTX",
+        "industry_infos": "Capital",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "MTD",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "DHI",
+        "industry_infos": "Residential",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ALGN",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "TSN",
+        "industry_infos": "Farm",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "KEYS",
+        "industry_infos": "Scientific",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "BBY",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FRC",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "CHD",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CARR",
+        "industry_infos": "Building",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "LEN",
+        "industry_infos": "Residential",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CPRT",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "NTRS",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "AEE",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "AJG",
+        "industry_infos": "Insurance",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "DAL",
+        "industry_infos": "Airlines",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "LYB",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "RSG",
+        "industry_infos": "Waste",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "DFS",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "OXY",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "LVS",
+        "industry_infos": "Resorts",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TFX",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CMS",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "AMCR",
+        "industry_infos": "Packaging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "LH",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "INCY",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CTXS",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CDW",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "WY",
+        "industry_infos": "REIT—Specialty",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "K",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "AKAM",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CAG",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CBRE",
+        "industry_infos": "Real",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "ESS",
+        "industry_infos": "REIT—Residential",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "PXD",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "MXIM",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "CAH",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ODFL",
+        "industry_infos": "Trucking",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WST",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "TTWO",
+        "industry_infos": "Electronic",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "KMX",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FITB",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "FCX",
+        "industry_infos": "Copper",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "PAYC",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "OKE",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "DGX",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "VMC",
+        "industry_infos": "Building",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "VTR",
+        "industry_infos": "REIT—Healthcare",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "HIG",
+        "industry_infos": "Insurance—Diversified",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "KSU",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "MTB",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "DPZ",
+        "industry_infos": "Restaurants",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ABC",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "TSCO",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "COO",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "DOV",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ZBRA",
+        "industry_infos": "Communication",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "HOLX",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "BR",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "PEAK",
+        "industry_infos": "REIT—Healthcare",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "SYF",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "IP",
+        "industry_infos": "Packaging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "BXP",
+        "industry_infos": "REIT—Office",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "IFF",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "EVRG",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "GRMN",
+        "industry_infos": "Scientific",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "NDAQ",
+        "industry_infos": "Financial",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "MAA",
+        "industry_infos": "REIT—Residential",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "MAS",
+        "industry_infos": "Building",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "VIAC",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "DRE",
+        "industry_infos": "REIT—Industrial",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "JKHY",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "GWW",
+        "industry_infos": "Industrial",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "HPE",
+        "industry_infos": "Communication",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "KEY",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "LDOS",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "HRL",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "STE",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ULTA",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TIF",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "HES",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "QRVO",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "FMC",
+        "industry_infos": "Agricultural",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "NUE",
+        "industry_infos": "Steel",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "EXR",
+        "industry_infos": "REIT—Industrial",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "EXPD",
+        "industry_infos": "Integrated",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WDC",
+        "industry_infos": "Computer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "GPC",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "MLM",
+        "industry_infos": "Building",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "ANET",
+        "industry_infos": "Computer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "OMC",
+        "industry_infos": "Advertising",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "WAT",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ATO",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "SJM",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "BF.B",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "LNT",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "RF",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "STX",
+        "industry_infos": "Computer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "EXPE",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CFG",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "XYL",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "NLOK",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "HAL",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "IEX",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "CXO",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "UDR",
+        "industry_infos": "REIT—Residential",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "NVR",
+        "industry_infos": "Residential",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "WAB",
+        "industry_infos": "Railroads",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "CBOE",
+        "industry_infos": "Financial",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "SIVB",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "J",
+        "industry_infos": "Engineering",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "PFG",
+        "industry_infos": "Insurance—Diversified",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "URI",
+        "industry_infos": "Rental",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ABMD",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ETFC",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "PKI",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CE",
+        "industry_infos": "Chemicals",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "IT",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "IR",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "VAR",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "BKR",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "CHRW",
+        "industry_infos": "Integrated",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "HBAN",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "RCL",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FOXA",
+        "industry_infos": "Broadcasting",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "MGM",
+        "industry_infos": "Resorts",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "JBHT",
+        "industry_infos": "Integrated",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "NTAP",
+        "industry_infos": "Computer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "XRAY",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CTL",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "AVY",
+        "industry_infos": "Business",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "HAS",
+        "industry_infos": "Leisure",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ALLE",
+        "industry_infos": "Security",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "LW",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "AAP",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "EMN",
+        "industry_infos": "Chemicals",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "CINF",
+        "industry_infos": "Insurance—Property",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "PKG",
+        "industry_infos": "Packaging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "DRI",
+        "industry_infos": "Restaurants",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "WU",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "CNP",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "PHM",
+        "industry_infos": "Residential",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "RJF",
+        "industry_infos": "Capital",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "HST",
+        "industry_infos": "REIT—Hotel",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "WYNN",
+        "industry_infos": "Resorts",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "RE",
+        "industry_infos": "Insurance—Reinsurance",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "DISH",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "NI",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "PNW",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "L",
+        "industry_infos": "Insurance—Property",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "FBHS",
+        "industry_infos": "Furnishings,",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "HSIC",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "AES",
+        "industry_infos": "Utilities—Diversified",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "UAL",
+        "industry_infos": "Airlines",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WRB",
+        "industry_infos": "Insurance—Property",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "NRG",
+        "industry_infos": "Utilities—Independent",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "LKQ",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FFIV",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "LNC",
+        "industry_infos": "Insurance—Life",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "MYL",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "CPB",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ALB",
+        "industry_infos": "Specialty",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "UHS",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "IRM",
+        "industry_infos": "REIT—Specialty",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "REG",
+        "industry_infos": "REIT—Retail",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "JNPR",
+        "industry_infos": "Communication",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "COG",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "WHR",
+        "industry_infos": "Furnishings,",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TXT",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "FANG",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "GL",
+        "industry_infos": "Insurance—Life",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "CCL",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "HII",
+        "industry_infos": "Aerospace",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "SNA",
+        "industry_infos": "Tools",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WRK",
+        "industry_infos": "Packaging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TAP",
+        "industry_infos": "Beverages—Brewers",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "PRGO",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "DVA",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "LYV",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "BWA",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "IPG",
+        "industry_infos": "Advertising",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "DISCK",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "AAL",
+        "industry_infos": "Airlines",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "AOS",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "AIZ",
+        "industry_infos": "Insurance—Specialty",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "CF",
+        "industry_infos": "Agricultural",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "VNO",
+        "industry_infos": "REIT—Office",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "PNR",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "FRT",
+        "industry_infos": "REIT—Retail",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "BEN",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "ZION",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "RHI",
+        "industry_infos": "Staffing",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ROL",
+        "industry_infos": "Personal",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "MHK",
+        "industry_infos": "Furnishings,",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "AIV",
+        "industry_infos": "REIT—Residential",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "CMA",
+        "industry_infos": "Banks—Regional",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "IPGP",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "NWL",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "KIM",
+        "industry_infos": "REIT—Retail",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "HWM",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "FLIR",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "PBCT",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "PWR",
+        "industry_infos": "Engineering",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "NLSN",
+        "industry_infos": "Consulting",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "MRO",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "APA",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "DVN",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "NBL",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "SEE",
+        "industry_infos": "Packaging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "NOV",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "HFC",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "MOS",
+        "industry_infos": "Agricultural",
+        "sector_infos": "Basic"
+    },
+    {
+        "code": "ALK",
+        "industry_infos": "Airlines",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "FOX",
+        "industry_infos": "Broadcasting",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "NWSA",
+        "industry_infos": "Broadcasting",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "LEG",
+        "industry_infos": "Furnishings,",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "NCLH",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "SLG",
+        "industry_infos": "REIT—Office",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "HBI",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "DXC",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "IVZ",
+        "industry_infos": "Asset",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "TPR",
+        "industry_infos": "Luxury",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "HOG",
+        "industry_infos": "Recreational",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "PVH",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "RL",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "KSS",
+        "industry_infos": "Department",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FLS",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "UNM",
+        "industry_infos": "Insurance—Life",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "DISCA",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "LB",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "HRB",
+        "industry_infos": "Personal",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "FTI",
+        "industry_infos": "Oil",
+        "sector_infos": "Energy"
+    },
+    {
+        "code": "XRX",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "GPS",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ADS",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "JWN",
+        "industry_infos": "Department",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "UAA",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "UA",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "NWS",
+        "industry_infos": "Broadcasting",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "COTY",
+        "industry_infos": "Household",
+        "sector_infos": "Consumer"
+    }
+]
