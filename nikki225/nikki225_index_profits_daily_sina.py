@@ -57,7 +57,7 @@ def insertDB(content):
                                  charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)
     cursor = connection.cursor()
     try:
-        f_ls = "%s," * (30)
+        f_ls = "%s," * (31)
         print(len(f_ls[:-1].split(",")))
         cursor.executemany('insert into nikki225_NP_daily (Total_,Electrical_equipment,Chemistry,service,machine,Bank,Food,trading_company,Pharmaceuticals,construction,Non_ferrous_metal,Automobile,Ceramic_industry,Railroad_bus,insurance,Retail_business,real_estate,communication,precision_equipment,Other_manufacturing,Securities,fiber,Steel,Other_finance,oil,Pulp_paper,Fisheries,Rubber,shipbuilding,Mining,Land_transportation) values ({0})'.format(f_ls[:-1]),content)
         connection.commit()
@@ -154,7 +154,7 @@ if __name__ == '__main__':
             f_result = [0]
         else:
             f_result = result[-1] - result[-2]
-        print(f_result)
+
 
         if item["industry_info"] =="電気機器":
             Electrical_equipment_.append(f_result)
@@ -226,9 +226,9 @@ if __name__ == '__main__':
 
     Total_ = sum([x for x in Total_ if x !=None])
     f_tuple =(Total_,count_list_item(Electrical_equipment_ ),count_list_item(Chemistry_ ),count_list_item(service_ ),count_list_item(machine_ ),count_list_item(Bank_ ),count_list_item(Food_ ),count_list_item(trading_company_ ),count_list_item(Pharmaceuticals_ ),count_list_item(construction_ ),count_list_item(Non_ferrous_metal_ ),count_list_item(Automobile_ ),count_list_item(Ceramic_industry_ ),count_list_item(Railroad_bus_ ),count_list_item(insurance_ ),count_list_item(Retail_business_ ),count_list_item(real_estate_ ),count_list_item(communication_ ),count_list_item(precision_equipment_ ),count_list_item(Other_manufacturing_ ),count_list_item(Securities_ ),count_list_item(fiber_ ),count_list_item(Steel_ ),count_list_item(Other_finance_ ),count_list_item(oil_ ),count_list_item(Pulp_paper_ ),count_list_item(Fisheries_ ),count_list_item(Rubber_ ),count_list_item(shipbuilding_ ),count_list_item(Mining_ ),count_list_item(Land_transportation_ ))
-    f_tuple_ = (0 if x == None else x for x in f_tuple)
-    print(f_tuple)
-    insertDB([f_tuple])
+    f_list = [x for x in (0 if x == None else x for x in f_tuple) ]
+    print([tuple(f_list)])
+    insertDB([tuple(f_list)])
 
     connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='123456', db='Trust',
                                  charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)

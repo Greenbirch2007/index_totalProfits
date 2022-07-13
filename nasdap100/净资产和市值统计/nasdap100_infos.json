@@ -1,0 +1,517 @@
+[
+    {
+        "code": "AAPL",
+        "industry_infos": "Consumer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "MSFT",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "AMZN",
+        "industry_infos": "Internet",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "GOOG",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "GOOGL",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "FB",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "INTC",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CMCSA",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "PEP",
+        "industry_infos": "Beverages—Non-Alcoholic",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CSCO",
+        "industry_infos": "Communication",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ADBE",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "NVDA",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "NFLX",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "TSLA",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "COST",
+        "industry_infos": "Discount",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "PYPL",
+        "industry_infos": "Credit",
+        "sector_infos": "Financial"
+    },
+    {
+        "code": "AMGN",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "AVGO",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "TXN",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CHTR",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "SBUX",
+        "industry_infos": "Restaurants",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "QCOM",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "GILD",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "MDLZ",
+        "industry_infos": "Confectioners",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "TMUS",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "FISV",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "BKNG",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "INTU",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ADP",
+        "industry_infos": "Staffing",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "ISRG",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "VRTX",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "MU",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CSX",
+        "industry_infos": "Railroads",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "BIIB",
+        "industry_infos": "Drug",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "AMAT",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "AMD",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ATVI",
+        "industry_infos": "Electronic",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "EXC",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "MAR",
+        "industry_infos": "Lodging",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "LRCX",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "WBA",
+        "industry_infos": "Pharmaceutical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ADI",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ROST",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "ADSK",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "REGN",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "ILMN",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CTSH",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "XEL",
+        "industry_infos": "Utilities—Regulated",
+        "sector_infos": "Utilities"
+    },
+    {
+        "code": "JD",
+        "industry_infos": "Internet",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "MNST",
+        "industry_infos": "Beverages—Non-Alcoholic",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "MELI",
+        "industry_infos": "Internet",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "NXPI",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "BIDU",
+        "industry_infos": "Internet",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "KHC",
+        "industry_infos": "Packaged",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "SIRI",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "PAYX",
+        "industry_infos": "Staffing",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "EA",
+        "industry_infos": "Electronic",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "LULU",
+        "industry_infos": "Apparel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "EBAY",
+        "industry_infos": "Internet",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CTAS",
+        "industry_infos": "Specialty",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WDAY",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ORLY",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "VRSK",
+        "industry_infos": "Consulting",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "WLTW",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "CSGP",
+        "industry_infos": "Real",
+        "sector_infos": "Real"
+    },
+    {
+        "code": "PCAR",
+        "industry_infos": "Farm",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "KLAC",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "SPLK",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "NTES",
+        "industry_infos": "Electronic",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "MCHP",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "VRSN",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ANSS",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "IDXX",
+        "industry_infos": "Diagnostics",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "CERN",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "ALXN",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "ASML",
+        "industry_infos": "Semiconductor",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "SNPS",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "FAST",
+        "industry_infos": "Industrial",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "DLTR",
+        "industry_infos": "Discount",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "CPRT",
+        "industry_infos": "Auto",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "XLNX",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "CDNS",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ALGN",
+        "industry_infos": "Medical",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "SGEN",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "WDC",
+        "industry_infos": "Computer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "UAL",
+        "industry_infos": "Airlines",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "SWKS",
+        "industry_infos": "Semiconductors",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CDW",
+        "industry_infos": "Information",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "CHKP",
+        "industry_infos": "Software—Infrastructure",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "ULTA",
+        "industry_infos": "Specialty",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "INCY",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "TCOM",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "BMRN",
+        "industry_infos": "Biotechnology",
+        "sector_infos": "Healthcare"
+    },
+    {
+        "code": "EXPE",
+        "industry_infos": "Travel",
+        "sector_infos": "Consumer"
+    },
+    {
+        "code": "MXIM",
+        "industry_infos": "null",
+        "sector_infos": "null"
+    },
+    {
+        "code": "CTXS",
+        "industry_infos": "Software—Application",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "TTWO",
+        "industry_infos": "Electronic",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "FOXA",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "AAL",
+        "industry_infos": "Airlines",
+        "sector_infos": "Industrials"
+    },
+    {
+        "code": "NTAP",
+        "industry_infos": "Computer",
+        "sector_infos": "Technology"
+    },
+    {
+        "code": "FOX",
+        "industry_infos": "Entertainment",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "LBTYK",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    },
+    {
+        "code": "LBTYA",
+        "industry_infos": "Telecom",
+        "sector_infos": "Communication"
+    }
+]

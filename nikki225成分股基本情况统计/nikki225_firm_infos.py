@@ -26,6 +26,24 @@ from selenium import webdriver
 from requests.exceptions import RequestException
 
 
+def get_OneShare_NetValue(code):
+    url = "https://www.nikkei.com/nkd/company/kessan/?scode={0}&ba=1".format(code)
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            pattern = re.compile('一株純資産.*?<td class="a-taR a-wordBreakAll">(.*?)<tr', re.S)
+            item = re.findall(pattern, response.text)
+            # >1,530.08<
+            big_string = "".join(item)
+
+            pattern = re.compile('>(.*?)<', re.S)
+            item = re.findall(pattern, big_string)
+            print(item[-2])
+    except RequestException:
+        return None
+
+    return item[-2]
+
 def call_page(url):
     try:
         response = requests.get(url)
@@ -52,6 +70,7 @@ def parse_html(html):  # 正则专门有反爬虫的布局设置，不适合爬�
     average_age = selector.xpath('//*[@id="basicInformation"]/div/div[2]/div/div/table/tbody/tr[21]/td/text()')
     average_salary_annually = selector.xpath('//*[@id="basicInformation"]/div/div[2]/div/div/table/tbody/tr[22]/td/text()')
     average_salary_firstMonth = selector.xpath('//*[@id="basicInformation"]/div/div[2]/div/div/table/tbody/tr[23]/td/text()')
+    location = selector.xpath('//*[@id="basicInformation"]/div/div[2]/div/div/table/tbody/tr[5]/td/text()')
     f_last_price = "".join(last_price[0].split(","))
     f_shares_number="".join(re.findall("\d",shares_number[0].split()[0]))
     f_employees_num = "".join(re.findall("\d", employees_num[0].split()[0]))
@@ -60,7 +79,8 @@ def parse_html(html):  # 正则专门有反爬虫的布局设置，不适合爬�
     f_average_salary_firstMonth = "".join(re.findall("\d", average_salary_firstMonth[0].split()[0]))
     market_value = float(f_last_price)*float(f_shares_number)/100000000
 
-    result = [f_last_price,firm_name[0],f_average_salary_firstMonth,f_average_salary_annually,f_average_age,f_employees_num,market_value,f_shares_number,firm_url[0]]
+
+    result = [f_last_price,firm_name[0],f_average_salary_firstMonth,f_average_salary_annually,f_average_age,f_employees_num,market_value,f_shares_number,location[0].split()[0],location[0].split()[1],firm_url[0]]
     return result
 
 
@@ -84,7 +104,8 @@ if __name__=="__main__":
         industry_info = item["industry_info"]
         html = call_page(nikkei_url)
         result =parse_html(html)
-        f_result = [code]+[nikkei_url_page]+[industry_info]+result
+        net_assert = get_OneShare_NetValue(item["code"])
+        f_result = [code]+[nikkei_url_page]+[industry_info]+result +[net_assert]
         print(f_result)
         time.sleep(1)
         writeintoTSV_file("nikki225_firm_infos.tsv", f_result)
